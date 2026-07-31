@@ -1,5 +1,5 @@
 # Lab: auth-service CI/CD + GitOps — End to End
-
+    
 You will wire up a complete delivery pipeline for `auth-service` — from a git push on your laptop to a running pod on Kubernetes, with ArgoCD ensuring the cluster always matches git.
 
 ```
